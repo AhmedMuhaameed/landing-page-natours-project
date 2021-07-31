@@ -1,5 +1,8 @@
 **Landing page for Natours Project**
 
+**page is Deployed**
+You can check page from this link:
+https://natours-landing-ahmedmohamed.netlify.app/
 
 **How to run project at your own**
 

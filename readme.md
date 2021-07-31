@@ -29,6 +29,7 @@ New landing page for my last natours project (you can check it [here](https://gi
 - used sass instead of css for nice and clean sepration of css code.
 - built grid system with css float proprety.
 - used BEM (block element modifier) notation.
+
 **Project Dependancies**
 
 Project uses `sass`  as a css framework.
